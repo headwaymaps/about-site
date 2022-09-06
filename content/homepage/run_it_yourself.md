@@ -8,7 +8,7 @@ header_menu: true
 
 ```
 $ earthly -P +build --area=Amsterdam
-$ cp .env-example .env
+$ cp .env.example .env
 $ docker-compose up -d
 ```
 
